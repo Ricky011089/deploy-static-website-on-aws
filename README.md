@@ -22,4 +22,4 @@ Upload the website files to your bucket
 Configure the bucket for website hosting
 Secure the bucket using IAM policies
 Speed up content delivery using AWS’ content distribution network service, CloudFront
-Access your website in a browser using the unique CloudFront endpoint
+Access your website in a browser using the unique CloudFront endpoint (http://d37v84xa7552iu.cloudfront.net/index.html)
